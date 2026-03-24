@@ -2480,5 +2480,29 @@ uppertendom
 villaindom
 
 womandom
+quyte
+aculeae
+
+cochleae
+
+cochleleae
+
+euryaleae
+
+galeae
+
+hemophileae
+
+paleae
+
+pasteurelleae
+
+taleae
+
+trochleae
+
+zoogleae
+
+
 
 
