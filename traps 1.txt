@@ -2982,6 +2982,57 @@ trichogramma
 trilemma
 
 umma
+apraxic
+
+ataraxic
+
+ataxic
+
+chemiotaxic
+
+diastataxic
+
+dyspraxic
+
+dystaxic
+
+epitaxic
+
+eutaxic
+
+heterotaxic
+
+homotaxic
+
+hypotaxic
+
+metataxic
+
+parataxic
+
+phyllotaxic
+
+preataxic
+
+pseudataxic
+
+stereotaxic
+
+thermotaxic
+
+calibre
+
+felibre
+
+fibre
+
+interfibre
+
+libre
+
+microfibre
+
+subcalibre
 
 
 
