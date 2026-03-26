@@ -1,7 +1,6 @@
 sual
 oret
 abug
-zm
 ccha
 yg
 coog
@@ -45,8 +44,6 @@ yg
 pk
 luan
 acea
-akis
-onic
 mv
 seys
 stes
